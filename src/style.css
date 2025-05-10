@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+.bg-black{
+    background-color: #181818;
+}
+
+@font-face {
+    font-family: 'TuskerGrotesk'; /* Nome da fonte (você pode escolher outro) */
+    src: url('./fonts/TuskerGrotesk-5700Bold.otf') format('opentype'); /* Caminho para o arquivo da fonte */
+    font-weight: bold; /* Peso da fonte */
+    font-style: normal; /* Estilo da fonte */
+  }
+
+  @media (width <= 48rem) {
+  .cards{
+    position: relative;
+    margin-top: -60px;
+  }
+
+}
+
+@media (width >= 48rem) {
+
+    .cards{
+
+    }
+}
