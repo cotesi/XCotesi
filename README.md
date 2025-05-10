@@ -59,7 +59,7 @@ Pronto! Agora para testar seu projeto basta utilizar o comando `npm run dev` e t
 
 ## Contribuindo
 
-1. Realize um fork em (<https://github.com/cotesi/XCotesi.git/fork>)
+1. Realize um fork em (<https://github.com/cotesi/XCotesi/fork>)
 2. Crie a branch de sua feature (`git checkout -b feature/novaFeature`)
 3. Realize o commit de suas modificações (`git commit -am 'Aqui vai sua descrição'`)
 4. Faça o push de suas modificações (`git push origin feature/novaFeature`)
