@@ -179,7 +179,7 @@
 
               <p class="mb-3 font-normal text-gray-900 text-gray-900">Novos modelos de negócios; Inovação; Profissão e
                 Soft Skills.</p>
-              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12791/" target="_blank">
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12931/" target="_blank">
                 <button
                   class="bg-white w-full hover:bg-blue-500  hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                   Inscreva-se
@@ -213,10 +213,12 @@
                 ópticas e as soluções inovadoras da Furukawa, incluindo como se capacitar e se certificar para atender
                 as demandas em redes de computação por Fibras Opticas, empregando melhores práticas de instalação e
                 soluções capazes de revolucionar a forma como nos conectamos.</p>
-              <button
-                class="bg-white w-full hover:bg-blue-500  hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
-                Inscrições Em Breve
-              </button>
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12933/" target="_blank">
+                <button
+                  class="bg-white w-full hover:bg-blue-500  hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
+                  Inscreva-se
+                </button>
+              </a>
             </div>
           </div>
 
@@ -239,7 +241,7 @@
               <p class="mb-3 font-normal text-gray-900">Oficina introdutória ao Laravel (framework PHP):
                 explore conceitos, arquitetura MVC, rotas, controllers, Blade, Eloquent ORM, autenticação e comandos
                 Artisan. Ideal para entender aplicações Laravel e desenvolver projetos com produtividade.</p>
-              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12802/" target="_blank">
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12935/" target="_blank">
                 <button
                   class="bg-white w-full hover:bg-blue-500  hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                   Inscreva-se
@@ -311,7 +313,7 @@
               <p class="mb-3 font-normal text-gray-900 text-gray-900">Analista de Requisitos, Negócios e Product Owner:
                 diferenças, sinergias, mercado e tendências para profissionais multifuncionais na área.</p>
 
-              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12792/" target="_blank">
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12955/" target="_blank">
                 <button
                   class="bg-white w-full hover:bg-blue-500  hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                   Inscreva-se
@@ -338,7 +340,7 @@
 
               <p class="mb-3 font-normal text-gray-900 text-white">Venha entender como Dados de mobilidade urbana
                 monitorados otimizam transporte e planejamento</p>
-              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12793/" target="_blank">
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12959/" target="_blank">
                 <button
                   class="bg-white w-full hover:bg-blue-500  hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                   Inscreva-se
@@ -370,7 +372,7 @@
                 Python e Django para iniciantes: crie seu primeiro
                 site e entenda o desenvolvimento web.
               </p>
-              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12801/" target="_blank">
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12939/" target="_blank">
                 <button
                   class="bg-white w-full hover:bg-blue-500  hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                   Inscreva-se
@@ -433,13 +435,14 @@
               src="../img/palestrantes/AlessandroLopes.png">
 
                 <div class="flex relative  mt-7 flex-col cards justify-between p-4 leading-normal">
-              <div class="bg-ae sm:w-1/2 rounded-full text-l font-bold text-center text-white mb-1 mb-2">Alessandro Lopes</div>
+              <div class="bg-ae sm:w-1/2 rounded-full text-l font-bold text-center text-white mb-1 mb-2">Alessandro
+                Lopes</div>
               <h5 class="mb-2 text-2xl font-bold leading-6.5 tracking-tight leading-6.5 text-white">IA GENERATIVA COM
                 .NET</h5>
 
               <p class="mb-3 font-normal text-gray-900 text-gray-900">Venha conosco aprender como criar aplicativos mais
                 inteligentes de forma rápida com IA Generativa em .NET</p>
-              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12795/" target="_blank"><button
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12961/" target="_blank"><button
                   class="bg-white hover:bg-blue-500 w-full hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                   Inscreva-se
                 </button></a>
@@ -466,7 +469,7 @@
 
               <p class="mb-3 font-normal text-gray-900 text-white">João Carlos mostra que GitHub é mais que código, é um
                 espaço para aprender, colaborar e crescer na tecnologia.</p>
-              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12796/" target="_blank">
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12960/" target="_blank">
                 <button
                   class="bg-white w-full hover:bg-blue-500  hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                   Inscreva-se
@@ -488,8 +491,7 @@
 
                 <div class="flex relative  mt-7 flex-col cards justify-between p-4 leading-normal">
 
-              <div class="bg-ae sm:w-1/2 rounded-full text-l font-bold text-center text-white mb-1"
-               >Evelyn Amaral</div>
+              <div class="bg-ae sm:w-1/2 rounded-full text-l font-bold text-center text-white mb-1">Evelyn Amaral</div>
 
               <h5 class="mb-2 text-2xl font-bold leading-6.5 tracking-tight leading-6.5 text-white">Princípios Básicos e
                 Configuração de Redes LAN</h5>
@@ -497,7 +499,7 @@
               <p class="mb-3 font-normal text-gray-900 text-gray-900">Aprenda os fundamentos das redes locais (LAN),
                 conheça os principais protocolos utilizados em redes domésticas e descubra como configurar sua própria
                 rede de forma prática e eficiente.</p>
-              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12850/" target="_blank"><button
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12941/" target="_blank"><button
                   class="bg-white hover:bg-blue-500 w-full hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                   Inscreva-se
                 </button></a>
@@ -561,8 +563,7 @@
 
                 <div class="flex relative flex-col cards justify-between p-4 leading-normal">
 
-              <div class="bg-ae sm:w-1/2 rounded-full text-l font-bold text-center text-white mb-1"
-               >Lucas Ribeiro</div>
+              <div class="bg-ae sm:w-1/2 rounded-full text-l font-bold text-center text-white mb-1">Lucas Ribeiro</div>
 
               <h5 class="mb-2 text-2xl font-bold leading-6.5 tracking-tight leading-6.5 text-white">Além do Código: Como
                 a
@@ -571,7 +572,7 @@
               <p class="mb-3 font-normal text-gray-900 text-gray-900">Veja como experiências práticas e mudanças no
                 mercado ensinam que adaptar-se é a chave para crescer na carreira tech.</p>
 
-              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12798/" target="_blank">
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12962/" target="_blank">
                 <button
                   class="bg-white w-full hover:bg-blue-500  hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                   Inscreva-se
@@ -599,7 +600,7 @@
 
               <p class="mb-3 font-normal text-gray-900 text-white">Acompanhe como Cilium, eBPF e Gemini otimizam redes
                 Kubernetes/Cloud-Native para performance, segurança e escalabilidade de microsserviços.</p>
-              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12799/" target="_blank">
+              <a href="https://suap.ifsp.edu.br/eventos/inscricao_publica/12964/" target="_blank">
                 <button
                   class="bg-white w-full hover:bg-blue-500  hover:scale-105 hover:bg-gray-300 transition-all text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                   Inscreva-se
